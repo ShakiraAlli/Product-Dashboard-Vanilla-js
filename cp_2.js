@@ -38,7 +38,7 @@ function displayProducts(products) {
 
     products.slice(0, 5).forEach(product => {
 
-        const name = product.fields.name;
+       const name = product.fields.name.toUpperCase();
         const price = (product.fields.price / 100).toFixed(2);
         const image = product.fields.image[0].url;
 
