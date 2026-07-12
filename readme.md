@@ -1,5 +1,5 @@
-// *Coding Project 2*
+// *Product-Dashboard-Vanilla*
 
-Answers to Coding Project 2
+A basic dashboard that displays products for furniture store using Fetch, Promises, and Async/Await.
 
-Building a dashboard for products using Fetch, Promises, and Async/Await
+Product cards display pictures and use hover to highlight.
